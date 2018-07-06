@@ -11,6 +11,8 @@ correctAnswer: 2
 
 Since you'll be using [Maven](https://maven.apache.org/) (still the most widely used build tool for Java) in this tutorial, make sure you have a reasonably fresh version installed.
 
+```apt-get install maven #installation in ubuntu```
+
 <Instruction>
 
 To bootstrap a simple web application project execute the following commands in a terminal (and confirm with `Y` when prompted):
